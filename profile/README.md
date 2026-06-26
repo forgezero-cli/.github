@@ -12,6 +12,22 @@ If you're familiar with our **Go-based toolchain** — you already know what we'
 
 ---
 
+## Technology Stack
+
+We build on a modern, systems-level technology stack:
+
+- Go — primary language for CLI tools and infrastructure
+
+- C — system-level components and OS research
+
+- C++ — performance-critical modules and build system integrations
+
+- NASM — bootloader development and low-level x86 assembly
+
+- Rust — memory-safe systems programming for future components
+
+This diverse stack allows us to choose the right tool for each layer of the system — from high-level user interfaces down to the bare metal.
+
 ## Current Development
 
 In addition to the CLI tools, we're actively working on:
